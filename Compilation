@@ -1,3 +1,4 @@
+// 211101 символов
 <?php
 // Подключаю базу данных
 require_once '../parts_php/dbconnection.php';
